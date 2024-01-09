@@ -4,11 +4,11 @@ console.log("Hello World")
 //DATA TYPES
 name = "Danish";    //string
 age = 24;           //int, number
-isCnic = flase;    // Boolean true & false 
+isCnic = false;    // Boolean true & false 
 x = undefined;     // kch ana hai
 y = null;          // Empty
 
-console.table(name , age , icCnic , x ,y);
+console.table(name , age , isCnic , x , y);
 console.log(typeof(name))
 console.log(typeof(age))
 console.log(typeof(isCnic))
