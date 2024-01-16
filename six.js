@@ -1,3 +1,4 @@
+//splice
 let myData = {
     name : "Peter",
     city : "Karachi",
